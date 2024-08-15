@@ -245,9 +245,11 @@ const Home = () => {
         <button className="bg-light-blue text-dark-blue px-6 py-2 rounded-md hover:bg-blue-400 transition duration-300">
           Get Started
         </button>
-        <button className="border border-light-blue text-light-blue px-6 py-2 rounded-md hover:bg-gray-blue transition duration-300">
-          View on GitHub
-        </button>
+        <a href="https://github.com/Jaydenluse/re_script" target="_blank" rel="noopener noreferrer">
+          <button className="border border-light-blue text-light-blue px-6 py-2 rounded-md hover:bg-gray-blue transition duration-300">
+            View on GitHub
+          </button>
+        </a>
       </div>
       <div className="bg-gray-blue rounded-lg p-6 shadow-lg">
         <h2 className="text-2xl font-semibold mb-4 text-light-blue">Features</h2>
