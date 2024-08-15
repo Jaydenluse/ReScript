@@ -2,6 +2,10 @@
 
 Welcome to re_script! This tool enables you to quickly set up a modern React application integrated with Tailwind CSS and Vite, allowing you to focus on building great features right from the start.
 
+## Live Demo
+
+Check out the live demo of what this script creates: [re_script demo](https://jaydenluse.github.io/re_script)
+
 ## Features
 
 - **React**: Utilizes React to build user interfaces efficiently.
